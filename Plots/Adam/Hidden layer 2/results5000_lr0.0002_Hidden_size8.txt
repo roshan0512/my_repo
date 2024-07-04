@@ -1,0 +1,1 @@
+Epoch 100/5000,Training Loss: 1.082367221910206, Training Accuracy: 76.49%, Test Loss: 1.0736543886314254, Test Accuracy: 76.85%

@@ -1,0 +1,10 @@
+Epoch 100/1000, Training Loss: 1.90393683334813, Training Accuracy: 66.33%, Test Loss: 1.8525651559962608, Test Accuracy: 67.24%
+Epoch 200/1000, Training Loss: 21.810988990376913, Training Accuracy: 33.67%, Test Loss: 22.110209089670107, Test Accuracy: 32.76%
+Epoch 300/1000, Training Loss: 14.39705813268367, Training Accuracy: 66.33%, Test Loss: 14.007878013799361, Test Accuracy: 67.24%
+Epoch 400/1000, Training Loss: 1.9250882183831213, Training Accuracy: 66.33%, Test Loss: 1.873138921706451, Test Accuracy: 67.24%
+Epoch 500/1000, Training Loss: 21.867347371706646, Training Accuracy: 33.67%, Test Loss: 22.167340639078777, Test Accuracy: 32.76%
+Epoch 600/1000, Training Loss: 14.400812881598334, Training Accuracy: 66.33%, Test Loss: 14.011531264642999, Test Accuracy: 67.24%
+Epoch 700/1000, Training Loss: 1.9111332156027807, Training Accuracy: 66.33%, Test Loss: 1.8595649714083855, Test Accuracy: 67.24%
+Epoch 800/1000, Training Loss: 21.822968068611683, Training Accuracy: 33.67%, Test Loss: 22.12235250621069, Test Accuracy: 32.76%
+Epoch 900/1000, Training Loss: 14.39746855973224, Training Accuracy: 66.33%, Test Loss: 14.008277346216927, Test Accuracy: 67.24%
+Epoch 1000/1000, Training Loss: 1.9239621520549823, Training Accuracy: 66.33%, Test Loss: 1.8720435975777756, Test Accuracy: 67.24%
